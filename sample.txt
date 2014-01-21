@@ -1,6 +1,9 @@
 this is My first project file.
 <<<<<<< HEAD
 my first line
+<<<<<<< HEAD
 my second line
 =======
 >>>>>>> parent of 578fb8b... testing GUI
+=======
+>>>>>>> parent of 245f022... added second line
